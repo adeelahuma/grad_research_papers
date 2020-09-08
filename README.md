@@ -12,7 +12,7 @@ In this group term paper, we created synthetic data for simulating role of trust
 <br>
 **Tools**: Java
 
-## Trust Based Information diffusion vs Small Word Network <span style="font-size:20px">[[pdf]](pdfs/Trust_Based_Info_Diffusion.pdf)</span>
+## Trust Based Information diffusion vs Small World Network <span style="font-size:20px">[[pdf]](pdfs/Trust_Based_Info_Diffusion.pdf)</span>
 This research paper proposes a relationship between trust based information diffusion and small world networks. It uses graph-based techniques - breadth first search for information diffusion, clustering, path length etc. 
 <br>
 **Tools**: R
